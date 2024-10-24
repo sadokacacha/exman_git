@@ -1,4 +1,4 @@
 def accueil():
-    print("bienvenu sur le project git !")
+    print("bienvenu sur l'application amelioree !")
     
 accueil()
